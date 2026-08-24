@@ -23,7 +23,7 @@ The dashboard helps explore menu categories, product-level nutrition values, and
 
 ## Demo Video
 
-[Watch Dashboard Demo](Video%20Project.mp4)
+[Watch Dashboard Demo]([Video%20Project.mp4](https://lnkd.in/p/g2GFFynj))
 
 ## Power BI File
 
