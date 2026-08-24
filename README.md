@@ -31,6 +31,8 @@ The dashboard helps explore menu categories, product-level nutrition values, and
 
 ## Dataset
 
+Dataset file: [Download Dataset](https://github.com/Bheemalingappa/mcdonalds-menu-analytics-powerbi/blob/main/mcd.csv)
+
 The dashboard uses a McDonald's menu and nutrition dataset with fields such as:
 
 - Product name
